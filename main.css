@@ -1,0 +1,55 @@
+div div{
+width:200px;
+height:200px;
+margin: 20px;
+}
+p{
+color: 1846;	
+text-align: right;
+margin-top: 180px;
+
+}
+hr{
+	border-top: 3px solid purple;
+	width: 100px;
+	float: left;
+	position: absolute;
+}
+
+/* Imágenes de Claudia Hernandez*/
+.inlineblock{
+display: inline-block;
+
+}
+
+.pic1{
+background-image: url(img/pic1.jpg);
+}
+
+.pic2{
+background-image: url(img/pic2.jpg);
+}
+
+.pic3{
+background-image: url(img/pic3.jpg);
+}
+
+.pic4{
+background-image: url(img/pic4.jpg);
+}
+
+.pic5{
+background-image: url(img/pic5.jpg);
+}
+
+.pic6{
+background-image: url(img/pic6.jpg);
+}
+
+
+/* filtro */
+.efect{
+	-webkit-filter: grayscale(100%)   invert(0.1)  sepia(0.2);
+
+background-size:200px; 
+}
